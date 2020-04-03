@@ -3,7 +3,7 @@ Spreadsheet containing India district names with translations
 
 ## Format
 
-State-English, District-English, District-<Language>
+State-English, District-English, District-\<Language\>
 
 ## How to contribute?
 
